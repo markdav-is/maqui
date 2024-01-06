@@ -9,7 +9,7 @@ namespace DarkMatter.Theme.Maqui
     {
         public Oqtane.Models.Theme Theme => new Oqtane.Models.Theme
         {
-            Name = "DarkMatter Maqui",
+            Name = "Maqui Theme",
             Version = "1.0.0",
             PackageName = "DarkMatter.Theme.Maqui",
             ThemeSettingsType = "DarkMatter.Theme.Maqui.ThemeSettings, DarkMatter.Theme.Maqui.Client.Oqtane",

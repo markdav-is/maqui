@@ -1,0 +1,16 @@
+/* container classes */
+.maqui-container-primary {
+    background-color: #004960;
+    color:white;
+}
+
+.maqui-container-secondary {
+    background-color: #006686;
+    color: white;
+}
+
+.maqui-container-tertiary {
+    background-color: #6e963e;
+    color: white;
+}
+
